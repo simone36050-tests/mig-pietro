@@ -5,8 +5,8 @@ on:
 
 env:
   # Implementation folder
-  IMPLEMENTATION_FOLDER:spid-cie-oidc-django
-  HEADLESS_MODE:true
+  IMPLEMENTATION_FOLDER: spid-cie-oidc-django
+  HEADLESS_MODE: true
   
 jobs:
   build-test:
